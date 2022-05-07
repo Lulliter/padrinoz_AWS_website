@@ -1,0 +1,53 @@
+name: "padrinoz_website"
+title: "The Padrinoz"
+description: |
+  The Padrinoz Band
+output_dir: "docs"
+theme: ek_theme.css
+favicon: images/favicon.png
+base_url: https://ellakaye.rbind.io/
+repository_url: https://lulliter.github.io/padrinoz_website/
+creative_commons: CC BY-SA
+# google_analytics: "UA-101621242-1"
+# twitter:
+#   site: "@ellamkaye"
+#   creator: "@ellamkaye"
+navbar:
+  search: false
+  logo:
+    image: images/logo.png
+    href: index.html
+  right:
+    - text: "About"
+      href: about.html
+    - text: "Posts"
+      href: posts.html
+    - text: "Talks"
+      href: talks.html
+    - text: "Projects"
+      href: projects.html
+    - icon: fab fa-github
+      href: https://github.com/Lulliter/padrinoz_website
+    # - icon: fab fa-twitter
+    #   href: https://twitter.com/ellamkaye
+    - icon: fas fa-home
+      href: index.html
+collections:
+  posts:
+    categories: true
+    categories_metadata: true
+    authors_metadata: false
+    feed_iems_max: 20 # default
+  talks:
+    categories: true
+    categories_metadata: true
+    authors_metadata: false
+    feed_iems_max: 20 # default
+output:
+  distill::distill_article:
+    highlight: /Users/luisamimmi/Github/padrinoz_website/ek_syntax_highlighting.theme
+    includes:
+      in_header:
+      - _includes/header.html
+      - _includes/utterances.html
+
