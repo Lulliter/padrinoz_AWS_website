@@ -1,10 +1,37 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "About"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+
+_the actual reason we are here... _ 😉
+
+
+<!-- ![_Piled Higher and Deeper_ by Jorge Cham www.phdcomics.com ](images/Phd_procr.jpg) -->
+
+
+_...but while we are at it:_  
+ 
+### what is this website?
+
+ 
+
+### and who am I?   
+ 
+<!-- ---
+
+### Presently busy with: 
+
+- [Survey of WSS Suppliers in Brazil (as part of my IADB work)](https://lulliter.github.io/BrazilWaterSurvey/)
+- [Survey of WSS Suppliers in Mexico (as part of my IADB work)](https://lulliter.github.io/MexicoWaterSurvey/)
+ 
+
+- "If You Give a Judge a Risk Score: Evidence from Kentucky Bail Decisions"
+    - [Full text](/about_files/albright_judge_score.pdf) & [Slides](/about_files/slides/ecineq_19.pdf) & [Blog post](https://thelittledataset.com/2019/07/15/if-you-give-a-judge-a-risk-score/)     
+    
+-->
+
 

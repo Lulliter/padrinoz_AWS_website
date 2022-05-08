@@ -1,10 +1,10 @@
 name: "padrinoz_website"
 title: "The Padrinoz"
 description: |
-  The Padrinoz Band
+  'Official' website of the marvelous The Padrinoz Band!
 output_dir: "docs"
-theme: ek_theme.css
-favicon: images/favicon.png
+theme: theme.css
+favicon: images/garageband_64.png
 base_url: https://thepadrinoz.com
 repository_url: https://lulliter.github.io/padrinoz_website/
 creative_commons: CC BY-SA
@@ -15,17 +15,17 @@ creative_commons: CC BY-SA
 navbar:
   search: false
   logo:
-    image: images/logo.png
+    image: images/nota612x612.jpg
     href: index.html
   right:
-    - text: "About"
+    - text: "about"
       href: about.html
-    - text: "Posts"
-      href: posts.html
-    - text: "Talks"
-      href: talks.html
-    - text: "Projects"
-      href: projects.html
+    - text: "blog"
+      href: blog.html
+    # - text: "Talks"
+    #   href: talks.html
+    - text: "concerts"
+      href: concerts.html
     - icon: fab fa-github
       href: https://github.com/Lulliter/padrinoz_website
     # - icon: fab fa-twitter
@@ -42,12 +42,14 @@ collections:
     categories: true
     categories_metadata: true
     authors_metadata: false
+    share: [twitter, linkedin]
     feed_iems_max: 20 # default
-output:
-  distill::distill_article:
-    highlight: /Users/luisamimmi/Github/padrinoz_website/ek_syntax_highlighting.theme
-    includes:
-      in_header:
-      - _includes/header.html
-      - _includes/utterances.html
+output: distill::distill_article
+# output:
+  # distill::distill_article:
+  #   highlight: /Users/luisamimmi/Github/padrinoz_website/ek_syntax_highlighting.theme
+  #   includes:
+  #     in_header:
+  #     - _includes/header.html
+  #     - _includes/utterances.html
 
