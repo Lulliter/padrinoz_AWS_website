@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-05-07T22:55:32+02:00"
+      "last_modified": "2022-05-08T13:03:55+02:00"
     },
     {
       "path": "index.html",
@@ -14,34 +14,34 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-05-07T22:55:33+02:00"
+      "last_modified": "2022-05-08T13:03:56+02:00"
     },
     {
       "path": "posts.html",
       "title": "Posts",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-05-07T22:55:34+02:00"
+      "last_modified": "2022-05-08T13:03:58+02:00"
     },
     {
       "path": "projects.html",
       "title": "Projects",
       "author": [],
       "contents": "\n\n\n\n\n{distilltools}\n\n\nThe {distilltools} R package is a collection of tools to support the creation and styling of content on blogs/wesbites made with the {distill} package.\n\n\n\n\n\n\nTidyTuesday\n\n\nMy (infrequent) contributions to #TidyTuesday\n\n\n\n\n\n\n{BradleyTerryScalable}\n\n\nAn R pacakge for fitting the Bradley-Terry model to potentially large and sparse networks for paired comparison data.\n\n\n\n\n\n\n{EMK}\n\n\nA personal R package of a collection of miscellaneous functions I find useful.\n\n\n\n\n\n\n\n",
-      "last_modified": "2022-05-07T22:55:35+02:00"
+      "last_modified": "2022-05-08T13:03:58+02:00"
     },
     {
       "path": "README.html",
       "author": [],
       "contents": "\npadrinoz_website\nToy website of the band “The Padrinoz” 🎸\n\n🔉 work in progress….\n\nAcknowledgments\nThis is “heavily” inspired by the beautiful website of Ella Kaye\n",
-      "last_modified": "2022-05-07T22:55:35+02:00"
+      "last_modified": "2022-05-08T13:03:59+02:00"
     },
     {
       "path": "talks.html",
       "title": "Talks",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-05-07T22:55:35+02:00"
+      "last_modified": "2022-05-08T13:03:59+02:00"
     }
   ],
   "collections": ["posts/posts.json", "talks/talks.json"]

@@ -5,7 +5,7 @@ description: |
 output_dir: "docs"
 theme: ek_theme.css
 favicon: images/favicon.png
-base_url: https://ellakaye.rbind.io/
+base_url: https://thepadrinoz.com
 repository_url: https://lulliter.github.io/padrinoz_website/
 creative_commons: CC BY-SA
 # google_analytics: "UA-101621242-1"

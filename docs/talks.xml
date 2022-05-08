@@ -2,34 +2,34 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>The Padrinoz</title>
-    <link>https://ellakaye.rbind.io/</link>
-    <atom:link href="https://ellakaye.rbind.io/talks.xml" rel="self" type="application/rss+xml"/>
+    <link>https://thepadrinoz.com</link>
+    <atom:link href="https://thepadrinoz.com/talks.xml" rel="self" type="application/rss+xml"/>
     <description>The Padrinoz Band
 </description>
     <image>
       <title>The Padrinoz</title>
-      <url>https://ellakaye.rbind.io/images/favicon.png</url>
-      <link>https://ellakaye.rbind.io/</link>
+      <url>https://thepadrinoz.com/images/favicon.png</url>
+      <link>https://thepadrinoz.com</link>
     </image>
     <generator>Distill</generator>
     <lastBuildDate>Thu, 23 Aug 2018 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Setting up you PhD (or other research project!) as an R package</title>
       <dc:creator>Ella Kaye</dc:creator>
-      <link>https://ellakaye.rbind.io/talks/2018-08-23-phd-as-package</link>
+      <link>https://thepadrinoz.com/talks/2018-08-23-phd-as-package</link>
       <description>How I set up my PhD as an R package</description>
-      <guid>https://ellakaye.rbind.io/talks/2018-08-23-phd-as-package</guid>
+      <guid>https://thepadrinoz.com/talks/2018-08-23-phd-as-package</guid>
       <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
-      <media:content url="https://ellakaye.rbind.io/talks/2018-08-23-phd-as-package/phd-as-package.png" medium="image" type="image/png" width="1261" height="710"/>
+      <media:content url="https://thepadrinoz.com/talks/2018-08-23-phd-as-package/phd-as-package.png" medium="image" type="image/png" width="1261" height="710"/>
     </item>
     <item>
       <title>An Overview of htmlwidgets</title>
       <dc:creator>Ella Kaye</dc:creator>
-      <link>https://ellakaye.rbind.io/talks/2017-05-25-an-overview-of-htmlwidgets</link>
+      <link>https://thepadrinoz.com/talks/2017-05-25-an-overview-of-htmlwidgets</link>
       <description>A brief overview of htmlwidgets in R</description>
-      <guid>https://ellakaye.rbind.io/talks/2017-05-25-an-overview-of-htmlwidgets</guid>
+      <guid>https://thepadrinoz.com/talks/2017-05-25-an-overview-of-htmlwidgets</guid>
       <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
-      <media:content url="https://ellakaye.rbind.io/talks/2017-05-25-an-overview-of-htmlwidgets/an-overview-of-htmlwidgets.png" medium="image" type="image/png" width="1840" height="1446"/>
+      <media:content url="https://thepadrinoz.com/talks/2017-05-25-an-overview-of-htmlwidgets/an-overview-of-htmlwidgets.png" medium="image" type="image/png" width="1840" height="1446"/>
     </item>
   </channel>
 </rss>

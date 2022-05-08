@@ -42,6 +42,8 @@ git commit -m "$msg"
 # ... Push source and build repos.
 git push origin master
 
+#=========================================== (add+commit+push to Github repo) ================================================#
+git add . && git commit -m '_render-deploy.sh and CNAME record' && git push
 
 #=========================================== (tracked by mistake ) ================================================#
 git rm -r --cached .Rproj.user
