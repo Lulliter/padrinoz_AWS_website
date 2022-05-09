@@ -18,12 +18,15 @@ navbar:
     image: images/nota612x612.jpg
     href: index.html
   right:
+    - icon: fa-user-circle
     - text: "about"
       href: about.html
+    - icon: fa-rss
     - text: "blog"
       href: blog.html
     # - text: "Talks"
     #   href: talks.html
+    - icon: fa-music
     - text: "concerts"
       href: concerts.html
     - icon: fab fa-github
