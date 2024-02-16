@@ -24,6 +24,7 @@ git status
 # ..... Add TRACKED items changes to git Index.
 			git add -u
 # ..... Add site `/docs` items changes to git Index.
+			git add docs/*
 			# cd docs
 			# git add . #cd .. # (back to ./blog)
 # ....Create Std commit "message"....
@@ -36,7 +37,7 @@ git commit -m "$msg"
 		# git commit -m "upd README"
 		# git commit -m "revised CVs"
 		# git commit -m "small fix"
-		# git commit -m "add post r-lists"
+		# git commit -m "refreshed"
 
 
 # ... Push source and build repos.
