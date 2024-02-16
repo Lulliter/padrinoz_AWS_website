@@ -21,9 +21,9 @@ navbar:
     - icon: fa-user-circle
     - text: "about"
       href: about.html
-    - icon: fa-rss
-    - text: "blog"
-      href: blog.html
+    # - icon: fa-rss
+    # - text: "blog"
+    #   href: blog.html
     # - text: "Talks"
     #   href: talks.html
     - icon: fa-music
